@@ -1,5 +1,12 @@
 
 # Project Name - Construction company management system
+
+   
+   <div>
+      <h2>Application Overview</h2>
+      <img src="ITP.png" alt="Screens" width="100%" height="100%">
+   </div>
+        
 # Batch - 07
 ### Group Leader - IT21180934 - Mr.Dilshan G.A.M. (DilshanGAM)
 ### Member 2 - IT21166556 - Mr.Nadeeshan I.U.N. (it21166556) 
